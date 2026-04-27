@@ -23,10 +23,10 @@ public class RecetasCocina {
 
         //Impresion de resultado
         System.out.printf("--- Receta de Cocina ---\n");
-        System.out.println("\s Nombre receta = " + nombreReceta);
-        System.out.println("\s Nombre ingredientes = " + nombreIngredientes);
-        System.out.println("\s Tiempo de preparacion = " + tiempoPreparacion +"min");
-        System.out.println("\s Dificulta de preparacion = " + dificultaPreparacion);
+        System.out.println("\t Nombre receta = " + nombreReceta);
+        System.out.println("\t Nombre ingredientes = " + nombreIngredientes);
+        System.out.println("\t Tiempo de preparacion = " + tiempoPreparacion +"min");
+        System.out.println("\t Dificulta de preparacion = " + dificultaPreparacion);
 
     }
 }
